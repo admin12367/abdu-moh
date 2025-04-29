@@ -96,24 +96,28 @@ export const Socials = [
 ];
 export const Projects = [
   {
+    id: 1,
     title: "",
     text: "",
     src: "/edusity.jpeg",
     link: "https://admin12367.github.io/edu.college/"
   },
   {
+    id: 2,
     title: "",
     text: "",
     src: "/ecommerce.jpeg",
     link: "https://admin12367.github.io/ecommerce/"
   },
   {
+    id: 3,
     title: "",
     text: "",
     src: "/WebPortfolio.png",
     link: "/"
   },
   {
+    id: 4,
     title: "",
     text: "",
     src: "/restaurant.jpeg",
